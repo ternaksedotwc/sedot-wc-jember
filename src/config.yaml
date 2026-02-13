@@ -1,5 +1,5 @@
 ﻿site:
-  name: 'Sedot WC Jember - Diskon untuk Kos & Kontrakan'
+  name: 'Sedot WC Jember'
   site: 'https://example.com' # Nanti Cloudflare akan otomatis menyesuaikan
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@
 # Default SEO metadata
 metadata:
   title:
-    default: 'Sedot WC Jember - Diskon untuk Kos & Kontrakan'
+    default: 'Sedot WC Jember'
     template: '%s â€” Sedot WC JEMBER'
   description: "Tukang Sedot WC JEMBER profesional. Melayani sedot septic tank penuh, pelancaran saluran mampet, dan limbah industri. Respon cepat & harga transparan!"
   robots:
     index: false
     follow: true
   openGraph:
-    site_name: 'Sedot WC Jember - Diskon untuk Kos & Kontrakan'
+    site_name: 'Sedot WC Jember'
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -44,19 +44,19 @@ apps:
 
     list:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Jember' 
       robots:
         index: false
 
     category:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Jember' 
       robots:
         index: false
 
     tag:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Jember' 
       robots:
         index: false
 
@@ -70,6 +70,7 @@ analytics:
 
 ui:
   theme: 'light' # Untuk jasa sedot WC, tema "Light" biasanya terlihat lebih bersih dan terpercaya
+
 
 
 
